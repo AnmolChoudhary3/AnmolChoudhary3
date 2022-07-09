@@ -1,3 +1,5 @@
+![banner](https://github.com/AnmolChoudhary3/AnmolChoudhary3/blob/main/linkedInBanner.png)
+
 <h1 align="center">
 Hi <img src="https://media.giphy.com/media/kCMry3iScFtypKZXWn/giphy.gif" height="30" />, 
 I'm Anmol Choudhary</h1>
